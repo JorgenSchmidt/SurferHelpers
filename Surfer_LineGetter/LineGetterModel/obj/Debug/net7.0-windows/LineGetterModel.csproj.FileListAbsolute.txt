@@ -1,0 +1,15 @@
+D:\codes\C#\SurferHelpers\LineGetterSurfer\Surfer_LineGetter\LineGetterModel\bin\Debug\net7.0-windows\LineGetterModel.deps.json
+D:\codes\C#\SurferHelpers\LineGetterSurfer\Surfer_LineGetter\LineGetterModel\bin\Debug\net7.0-windows\LineGetterModel.dll
+D:\codes\C#\SurferHelpers\LineGetterSurfer\Surfer_LineGetter\LineGetterModel\bin\Debug\net7.0-windows\LineGetterModel.pdb
+D:\codes\C#\SurferHelpers\LineGetterSurfer\Surfer_LineGetter\LineGetterModel\bin\Debug\net7.0-windows\LineGetterCore.dll
+D:\codes\C#\SurferHelpers\LineGetterSurfer\Surfer_LineGetter\LineGetterModel\bin\Debug\net7.0-windows\LineGetterCore.pdb
+D:\codes\C#\SurferHelpers\LineGetterSurfer\Surfer_LineGetter\LineGetterModel\obj\Debug\net7.0-windows\LineGetterModel.csproj.AssemblyReference.cache
+D:\codes\C#\SurferHelpers\LineGetterSurfer\Surfer_LineGetter\LineGetterModel\obj\Debug\net7.0-windows\LineGetterModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\C#\SurferHelpers\LineGetterSurfer\Surfer_LineGetter\LineGetterModel\obj\Debug\net7.0-windows\LineGetterModel.AssemblyInfoInputs.cache
+D:\codes\C#\SurferHelpers\LineGetterSurfer\Surfer_LineGetter\LineGetterModel\obj\Debug\net7.0-windows\LineGetterModel.AssemblyInfo.cs
+D:\codes\C#\SurferHelpers\LineGetterSurfer\Surfer_LineGetter\LineGetterModel\obj\Debug\net7.0-windows\LineGetterModel.csproj.CoreCompileInputs.cache
+D:\codes\C#\SurferHelpers\LineGetterSurfer\Surfer_LineGetter\LineGetterModel\obj\Debug\net7.0-windows\LineGetterModel.csproj.CopyComplete
+D:\codes\C#\SurferHelpers\LineGetterSurfer\Surfer_LineGetter\LineGetterModel\obj\Debug\net7.0-windows\LineGetterModel.dll
+D:\codes\C#\SurferHelpers\LineGetterSurfer\Surfer_LineGetter\LineGetterModel\obj\Debug\net7.0-windows\refint\LineGetterModel.dll
+D:\codes\C#\SurferHelpers\LineGetterSurfer\Surfer_LineGetter\LineGetterModel\obj\Debug\net7.0-windows\LineGetterModel.pdb
+D:\codes\C#\SurferHelpers\LineGetterSurfer\Surfer_LineGetter\LineGetterModel\obj\Debug\net7.0-windows\ref\LineGetterModel.dll

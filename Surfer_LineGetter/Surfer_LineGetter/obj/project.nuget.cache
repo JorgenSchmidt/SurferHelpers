@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "twjRGubBI1RPNIdeFZygQMSY7ZXW9awEk43Wx44U2Cbn+IcWA+v0wvFY0SwDyRepoa+JqAcI92FUmokxtXJa9w==",
+  "success": true,
+  "projectFilePath": "D:\\codes\\C#\\SurferHelpers\\Surfer_LineGetter\\Surfer_LineGetter\\Surfer_LineGetter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joe\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\Joe\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\Joe\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}
